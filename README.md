@@ -1,2 +1,2 @@
 # news-engaement
-Project With Matty, Mina, and Jordan
+Project With Matty(mjb358), Mina(mh859), and Jordan(jsa242)
